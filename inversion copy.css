@@ -1,0 +1,25 @@
+@media only screen and (max-width:501px) {
+    /* For tablets: */
+    .btn {
+      width: 80%;
+      padding: 0;
+      background-color: black;
+      display: flex;
+     
+    }
+  }
+  @media only screen and (max-width: 510px) {
+  .tense-box{
+    width: 100%;
+    margin: 15px;
+    
+  }
+  @media screen and (min-device-width: 280px) and (max-device-width: 510px){
+    .tense-group{
+      display: block;
+      justify-content: space-evenly
+      
+    }
+  }
+  }
+  
