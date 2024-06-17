@@ -1,0 +1,41 @@
+.body{
+    margin: 0;
+    width: 100%;
+}
+.container{
+    width: 1280px;
+    margin: 0 auto;
+    max-width: 96%;
+}
+.tense{
+    
+    align-items: center;
+    padding: 50px 0;
+   
+}
+.tense-group{
+    display: flex;
+    align-items: center;
+    gap: 220px;
+    justify-content: space-between;
+}
+.tense-box{
+        width: 33%;
+        padding: 25px;
+        background-color: aqua;
+        min-height: 264px;
+        align-items: center;
+
+        
+}
+
+.btn{
+    background-color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+}
+.btn:hover{
+    background-color: aqua;
+    color: red;
+}
