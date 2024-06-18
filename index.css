@@ -35,7 +35,3 @@
     text-decoration: none;
     display: inline-block;
 }
-.btn:hover{
-    background-color: aqua;
-    color: red;
-}
